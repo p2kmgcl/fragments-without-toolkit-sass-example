@@ -1,0 +1,7 @@
+{
+  "name": "fragments-without-toolkit-sass-example",
+  "version": "1.0.0",
+  "dependencies": {
+    "sass": "^1.69.5"
+  }
+}

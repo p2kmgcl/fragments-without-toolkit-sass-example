@@ -1,0 +1,9 @@
+@use 'background';
+@use 'font';
+
+.my-fragment {
+  @include font.big-font;
+  @include background.dark-background;
+
+  padding: 1rem 2rem;
+}
